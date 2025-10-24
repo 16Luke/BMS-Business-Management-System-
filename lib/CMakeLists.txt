@@ -1,2 +1,1 @@
-cmake_minimum_required(VERSION 4.1.0)
-project(BMS-Library)
+add_subdirectory(roles)
