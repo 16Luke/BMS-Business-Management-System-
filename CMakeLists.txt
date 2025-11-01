@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 4.1.0)
+cmake_minimum_required(VERSION 3.31.6)
 
 if(MSVC)
     # For MSVC, use level 4 warnings
